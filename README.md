@@ -1,4 +1,5 @@
 # Age-Calculator
+Hosted on https://raajivp.github.io/Age-Calculator/ 
 
 This is a simple age calculator website that allows users to calculate their age based on their birth date. The website is built using HTML, vanilla CSS, and basic JavaScript.
 
